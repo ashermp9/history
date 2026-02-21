@@ -1,0 +1,17 @@
+filters:
+  and:
+    - type == "place"
+properties:
+  file.name:
+    displayName: Место
+  date:
+    displayName: Дата
+  tags:
+    displayName: Теги
+views:
+  - type: table
+    name: Все места
+    order:
+      - file.name
+      - date
+      - tags

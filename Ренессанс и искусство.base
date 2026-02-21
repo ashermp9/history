@@ -1,0 +1,25 @@
+filters:
+  or:
+    - file.hasTag("Ренессанс")
+    - file.hasTag("барокко")
+    - file.hasTag("искусство")
+properties:
+  file.name:
+    displayName: Название
+  type:
+    displayName: Тип
+  birth:
+    displayName: Рождение
+  death:
+    displayName: Смерть
+  tags:
+    displayName: Теги
+views:
+  - type: table
+    name: Искусство Италии
+    order:
+      - file.name
+      - type
+      - birth
+      - death
+      - tags

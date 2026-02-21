@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.hasTag("Франция")
+properties:
+  file.name:
+    displayName: Название
+  type:
+    displayName: Тип
+  date:
+    displayName: Дата
+  birth:
+    displayName: Рождение
+  death:
+    displayName: Смерть
+  period:
+    displayName: Период
+views:
+  - type: table
+    name: Всё про Францию
+    order:
+      - file.name
+      - type
+      - date
+      - birth
+      - death
+      - period

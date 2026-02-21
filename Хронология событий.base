@@ -1,0 +1,22 @@
+filters:
+  and:
+    - 'type == "event" || type == "war"'
+
+properties:
+  file.name:
+    displayName: Событие
+  date:
+    displayName: Дата
+  type:
+    displayName: Тип
+  tags:
+    displayName: Теги
+
+views:
+  - type: table
+    name: "Хронология"
+    order:
+      - file.name
+      - date
+      - type
+      - tags

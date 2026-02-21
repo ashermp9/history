@@ -1,0 +1,28 @@
+filters:
+  and:
+    - 'type == "state" || type == "period"'
+
+properties:
+  file.name:
+    displayName: Название
+  period:
+    displayName: Период
+  start:
+    displayName: Начало
+  end:
+    displayName: Конец
+  type:
+    displayName: Тип
+  tags:
+    displayName: Теги
+
+views:
+  - type: table
+    name: "Государства и периоды"
+    order:
+      - file.name
+      - type
+      - period
+      - start
+      - end
+      - tags

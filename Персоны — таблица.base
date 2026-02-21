@@ -1,0 +1,20 @@
+filters:
+  and:
+    - type == "person"
+properties:
+  file.name:
+    displayName: Имя
+  birth:
+    displayName: Рождение
+  death:
+    displayName: Смерть
+  tags:
+    displayName: Теги
+views:
+  - type: table
+    name: Все персоны
+    order:
+      - file.name
+      - birth
+      - death
+      - tags

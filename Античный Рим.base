@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.hasTag("античность")
+properties:
+  file.name:
+    displayName: Название
+  type:
+    displayName: Тип
+  date:
+    displayName: Дата
+  birth:
+    displayName: Рождение
+  death:
+    displayName: Смерть
+views:
+  - type: table
+    name: Всё про античный Рим
+    order:
+      - file.name
+      - type
+      - date
+      - birth
+      - death
