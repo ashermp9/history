@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "23b7499ddf7fc032",
+        "id": "ff7dafa19283c1bc",
         "type": "tabs",
         "children": [
           {
-            "id": "bb0098088c8adb92",
+            "id": "d19cadd2adce8d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "События/Объединение Италии.md",
+                "file": "Государства/Флорентийская республика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Объединение Италии"
+              "title": "Флорентийская республика"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Государства/Флорентийская республика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Флорентийская республика"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Государства/Флорентийская республика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Флорентийская республика"
             }
           },
           {
@@ -161,13 +163,32 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d68960b84eab52be",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "0729c1dd22c2f35e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,47 +198,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "bb0098088c8adb92",
+  "active": "d19cadd2adce8d77",
   "lastOpenFiles": [
-    "Французская история.base",
-    "Персоны/Филипп IV Красивый.md",
-    "Персоны/Генрих IV.md",
-    "События/Французская революция.md",
-    "Государства/Франция.md",
-    "Персоны/Ришелье.md",
-    "Персоны/Людовик XIV.md",
-    "Места/Флоренция.md",
-    "Персоны/Наполеон.md",
-    "События/Чёрная смерть.md",
-    "События/Григорианский календарь.md",
-    "События/Великий западный раскол.md",
-    "События/Великая схизма 1054.md",
-    "События/Варфоломеевская ночь.md",
-    "События/Авиньонское пленение пап.md",
+    "lectures/savonarola_lecture.md",
+    "lectures/romano_germanic_world_lecture.md",
+    "lectures/early_christianity_lecture.md",
+    "Государства/Вандалы.md",
     "Античный Рим.base",
-    "Карфаген.md",
-    "Ромул и Рем.md",
-    "Санта-Мария-дель-Фьоре.md",
-    "Государства/Римская республика.md",
-    "Войны/Столетняя война.md",
-    "Персоны/Жанна д'Арк.md",
-    "События/Падение Западной Римской империи.md",
-    "События/Разграбление Рима вестготами.md",
-    "Места/Катакомбы Сан-Каллисто.md",
-    "Места и достопримечательности.base",
-    "Персоны — таблица.base",
-    "Ренессанс и искусство.base",
-    "Персоны/Карл Великий.md",
     "Государства и периоды.base",
-    "Хронология событий.base",
+    "Римские императоры.excalidraw",
+    "Римские императоры.canvas",
+    "Персоны/Александр VI.md",
+    "События/Костры тщеславия.md",
+    "Персоны/Карл VIII.md",
+    "Персоны/Пико делла Мирандола.md",
+    "lectures/Савонарола.md",
+    "lectures/Джироламо Савонарола Флоренция на кострах тщеславия.txt",
+    "Excalidraw/Drawing 2026-02-23 21.38.43.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-23 21.46.03.excalidraw.md",
     "Untitled.base",
-    "Untitled 1.base",
     "Untitled 2.base",
+    "Untitled 1.base",
+    "Excalidraw",
+    "2026-02-23.md",
+    "События/Битва на Каталаунских полях.md",
+    "Untitled.canvas",
+    "Места/Константинополь.md",
+    "Места/Тир.md",
+    "События/Битва в Тевтобургском лесу.md",
+    "События/Контрреформация.md",
+    "Персоны/Антоний Великий.md",
     "События/Четвёртый крестовый поход.md",
-    "lectures",
-    "Untitled.canvas"
+    "События/Чума Юстиниана.md",
+    "Места/Рим.md",
+    "Государства/Вестготы.md",
+    "Битва при Адрианополе (378).md",
+    "Персоны/Марк Антоний.md",
+    "События/Битва при Акции.md",
+    "Персоны/Август.md",
+    "lectures/Романо-германский мир.txt",
+    "lectures/Раннее христианство позднего Рима.txt"
   ]
 }

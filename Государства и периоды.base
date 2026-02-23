@@ -1,7 +1,6 @@
 filters:
   and:
-    - 'type == "state" || type == "period"'
-
+    - type == "state" || type == "period"
 properties:
   file.name:
     displayName: Название
@@ -15,10 +14,9 @@ properties:
     displayName: Тип
   tags:
     displayName: Теги
-
 views:
   - type: table
-    name: "Государства и периоды"
+    name: Государства и периоды
     order:
       - file.name
       - type
