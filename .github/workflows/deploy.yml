@@ -42,7 +42,7 @@ jobs:
           rm -rf __quartz/content
           mkdir __quartz/content
           # Copy all vault folders and markdown files, skip hidden dirs and quartz itself
-          for item in Персоны События Места Периоды Войны Государства lectures *.md; do
+          for item in Персоны События Места Периоды Войны Государства Лекции *.md; do
             if [ -e "$item" ]; then
               cp -r "$item" __quartz/content/
             fi
