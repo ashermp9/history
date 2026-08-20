@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff7dafa19283c1bc",
+        "id": "f94582a5bb29a8ff",
         "type": "tabs",
         "children": [
           {
-            "id": "d19cadd2adce8d77",
+            "id": "2efcb667f30ba56d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Государства/Флорентийская республика.md",
+                "file": "Лекции/Великая французская революция.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Флорентийская республика"
+              "title": "Великая французская революция"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Французская-революция",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Государства/Флорентийская республика.md",
+                "file": "Государства/Римская империя.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Флорентийская республика"
+              "title": "Backlinks for Римская империя"
             }
           },
           {
@@ -113,12 +114,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Государства/Флорентийская республика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Флорентийская республика"
+              "title": "Outgoing links"
             }
           },
           {
@@ -188,14 +188,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
@@ -203,45 +203,55 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d19cadd2adce8d77",
+  "active": "14f18a379c6ad6b7",
   "lastOpenFiles": [
-    "Лекции/Савонарола — Флоренция на кострах тщеславия.md",
+    "Лекции/Ватикан.md",
+    "Лекции/Англосаксы и рождение Англии.md",
+    "Персоны/Стилихон.md",
+    "Государства/Вандалы.md",
+    "События/Беовульф.md",
+    "Персоны/Король Артур.md",
+    "Лекции/Великая французская революция.md",
     "Лекции/Романо-германский мир.md",
     "Лекции/Рим — История и искусство.md",
     "Лекции/Рим — Исторические лекции.md",
     "Лекции/Раннее христианство позднего Рима.md",
-    "Лекции/Ватикан.md",
-    "Лекции",
-    "Лекции.md",
-    "lectures/Ватикан.md",
-    "lectures/Рим — Исторические лекции.md",
-    "lectures/Рим — История и искусство.md",
-    "lectures/Савонарола — Флоренция на кострах тщеславия.md",
-    "lectures/Романо-германский мир.md",
-    "lectures/Раннее христианство позднего Рима.md",
-    "lectures/savonarola_lecture.md",
-    "lectures/romano_germanic_world_lecture.md",
-    "lectures/early_christianity_lecture.md",
-    "Государства/Вандалы.md",
-    "Античный Рим.base",
+    "Лекции/Первая мировая — государство войны и пропаганда.md",
+    "Лекции/Мир идей итальянского Возрождения.md",
+    "Государства/Франция.md",
+    "Войны/Семилетняя война.md",
+    "Персоны/Людовик XVI.md",
+    "Персоны/Мария-Антуанетта.md",
+    "Персоны/Людовик XV.md",
+    "Персоны/Антуан Лавуазье.md",
+    "События/Откупа.md",
+    "Персоны/Робеспьер.md",
+    "Лекции/Империя Наполеона.txt",
+    "События/Французская революция.md",
+    "Персоны/Людовик XIV.md",
+    "Вольтер.md",
+    "Персоны/Хлодвиг.md",
+    "Лекции/Франция 1871-1914 — Прекрасная эпоха Третьей Республики.md",
+    "Лекции/Великая французская революция.txt",
     "Государства и периоды.base",
     "Римские императоры.excalidraw",
+    "_attachments/download_images.sh",
+    "_attachments/vitruvian_man.jpg",
+    "_attachments/raphael_school_athens.jpg",
+    "_attachments/leonardo_self.jpg",
+    "_attachments/campo_dei_fiori.jpg",
+    "_attachments/italia_1494.png",
+    "_attachments/alexander_vi.jpg",
+    "_attachments/brunelleschi_dome.jpg",
+    "_attachments/giotto_lamentation.jpg",
+    "_attachments/savonarola_portrait.jpg",
+    "_attachments/botticelli_venus.jpg",
+    "_attachments",
+    "Лекции",
+    "Античный Рим.base",
     "Римские императоры.canvas",
-    "Персоны/Александр VI.md",
-    "События/Костры тщеславия.md",
-    "Персоны/Карл VIII.md",
-    "Персоны/Пико делла Мирандола.md",
-    "lectures/Савонарола.md",
     "lectures/Джироламо Савонарола Флоренция на кострах тщеславия.txt",
-    "Excalidraw/Drawing 2026-02-23 21.38.43.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-23 21.46.03.excalidraw.md",
     "Untitled.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Excalidraw",
-    "2026-02-23.md",
-    "События/Битва на Каталаунских полях.md",
-    "Untitled.canvas",
-    "lectures/Романо-германский мир.txt"
+    "Untitled.canvas"
   ]
 }

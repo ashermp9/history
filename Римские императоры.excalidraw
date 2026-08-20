@@ -1157,7 +1157,8 @@
 			"lineHeight": 1.35,
 			"index": "aV",
 			"hasTextLink": false,
-			"rawText": "[ 4 претендента на трон. Трое погибли.\nПобедитель — Веспасиан, основал Флавиев. ]"
+			"rawText": "[ 4 претендента на трон. Трое погибли.\nПобедитель — Веспасиан, основал Флавиев. ]",
+			"link": null
 		},
 		{
 			"id": "r_795822698",
@@ -2558,7 +2559,8 @@
 			"lineHeight": 1.35,
 			"index": "b08",
 			"hasTextLink": false,
-			"rawText": "◆ Траян\n  98 — 117\n\nМаксимум империи: Дакия, Аравия,\nМесопотамия. «Лучший принцепс» (Pliny).\nПик могущества Рима."
+			"rawText": "◆ Траян\n  98 — 117\n\nМаксимум империи: Дакия, Аравия,\nМесопотамия. «Лучший принцепс» (Pliny).\nПик могущества Рима.",
+			"link": null
 		},
 		{
 			"id": "a_624636385",
@@ -6049,10 +6051,10 @@
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": -210.71337505837982,
-		"scrollY": 52.269322250201554,
+		"scrollX": 130.69169789394127,
+		"scrollY": -56.301864195364004,
 		"zoom": {
-			"value": 0.596707
+			"value": 0.716675
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
